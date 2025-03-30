@@ -1,6 +1,6 @@
 # 🧩 Active Club Projects
 
-Below is a list of active, club-owned projects that members are contributing to. All projects are hosted in our [GitHub Organization](https://github.com/YOUR_ORG_NAME) and open to contributions!
+Below is a list of active, club-owned projects that members are contributing to. All projects are hosted in our [GitHub Organization](https://github.com/HVCC_Computer_Science_Club) and open to contributions!
 
 Each project includes:
 - A description
