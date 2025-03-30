@@ -1,6 +1,6 @@
-# 👋 CSC GitHub Official Guide
+# CSC GitHub Official Guide
 
-Welcome to the **official GitHub guide** for the Computer Science Club! Whether you're a beginner learning how to use GitHub for the first time or an advanced dev looking to collaborate, this repo is your starting point.
+👋 Welcome to the **official GitHub guide** for the Computer Science Club! Whether you're a beginner learning how to use GitHub for the first time or an advanced dev looking to collaborate, this repo is your starting point.
 
 Here you'll find everything you need to get involved, explore projects, and start contributing to cool club-built tools.
 
