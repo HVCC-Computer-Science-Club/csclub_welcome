@@ -1,4 +1,4 @@
-# 👋 Welcome to the Computer Science Club
+# 👋 CSC GitHub Official Guide
 
 Welcome to the **official GitHub guide** for the Computer Science Club! Whether you're a beginner learning how to use GitHub for the first time or an advanced dev looking to collaborate, this repo is your starting point.
 
