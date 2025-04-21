@@ -23,12 +23,8 @@ Each project includes:
 
 ## 💬 Want to Propose a New Project?
 
-1. Share your idea in the `#project-ideas` channel on Discord
-2. Include:
-   - Project title
-   - What it does
-   - What tech you think it would use
-   - If you’d like to help lead it
+1. Share your idea in the `#project-ideas` channel on Discord(optional; it's just for brainstorming)
+2. Put an official request through this [google form](https://forms.gle/6ASU5tEtWikUL83v8)
 3. Club leads will review and help get a repo started!
 
 ---
