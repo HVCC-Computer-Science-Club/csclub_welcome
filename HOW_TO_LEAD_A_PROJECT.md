@@ -39,7 +39,7 @@ You will:
 
 ## 💬 Support from the Club
 
-- Club officers will back you up with planning, recruiting contributors, and hosting hack sessions
+- Club officers will back you up with planning, recruiting contributors, and hosting hack sessions(totally optional)
 - You can step back any time — just let us know and we’ll help transition
 - You’ll gain real leadership experience for your resume
 
