@@ -15,7 +15,7 @@ Each project includes:
 ### 🕸️ Club Website
 |  Project Name 	|  Description 	|   Tech Stack	|  Beginner friendly 	|  Link 	|
 |---	|---	|---	|---	|---	|
-|  A public website for showcasing club events, team members, and active projects 	|  HTML, CSS, JavaScript (or React) 	|  [club-website](#)  	|  ✅ Yes 	|  [webiste link](#) 	|
+|  CSC website | A public website for showcasing club events, team members, and active projects 	|  HTML, CSS, JavaScript (or React) 	|  [club-website](#)  	|  ✅ Yes 	|  [webiste link](#) 	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 
