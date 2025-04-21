@@ -13,39 +13,13 @@ Each project includes:
 ## 📂 Projects
 
 ### 🕸️ Club Website
-- **Description**: A public website for showcasing club events, team members, and active projects.
-- **Stack**: HTML, CSS, JavaScript (or React)
-- **Repo**: [club-website](#)
-- **Beginner Friendly?** ✅ Yes
+|  Project Name 	|  Description 	|   Tech Stack	|  Beginner friendly 	|  Link 	|
+|---	|---	|---	|---	|---	|
+|  A public website for showcasing club events, team members, and active projects 	|  HTML, CSS, JavaScript (or React) 	|  [club-website](#)  	|  ✅ Yes 	|  [webiste link](#) 	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
 
-<!--
----
 
-### 🤖 AI Study Assistant
-- **Description**: A GPT-powered assistant that helps students with studying, scheduling, and reminders.
-- **Stack**: Python, Flask, OpenAI API
-- **Repo**: [ai-assistant](https://github.com/YOUR_ORG_NAME/ai-assistant)
-- **Beginner Friendly?** ✅ Yes (good first issues available)
-
----
-
-### 📚 CS Resource Hub
-- **Description**: A curated collection of tutorials, cheat sheets, and tools for computer science students.
-- **Stack**: Markdown, GitHub Pages
-- **Repo**: [cs-resource-hub](https://github.com/YOUR_ORG_NAME/cs-resource-hub)
-- **Beginner Friendly?** ✅ Yes (great for non-coders too!)
-
----
-
-### 🎮 Game Engine Project (Work In Progress)
-- **Description**: A lightweight 2D game engine created in JavaScript by club members.
-- **Stack**: JavaScript, Canvas API
-- **Repo**: [game-engine](https://github.com/YOUR_ORG_NAME/game-engine)
-- **Beginner Friendly?** 🟡 Some experience recommended
-
----
-
--->
 
 ## 💬 Want to Propose a New Project?
 
