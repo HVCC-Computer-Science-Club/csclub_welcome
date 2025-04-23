@@ -40,7 +40,7 @@ We’ve labeled beginner-friendly tasks with `good first issue` and `help wanted
 
 ## 📚 Resources
 
-Want to level up your skills? Our [`RESOURCES.md`](./RESOURCES.md) file is full of curated tools and tutorials picked by club members.
+Want to level up your skills? Our [`RESOURCES.md`](#) file is full of curated tools and tutorials picked by club members.
 
 You’ll find content on:
 - Git/GitHub basics
@@ -53,7 +53,7 @@ You’ll find content on:
 
 ## 📜 Code of Conduct
 
-We want this community to be welcoming and respectful. Please read our [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) before contributing or collaborating.
+We want this community to be welcoming and respectful. Please read our [`CODE_OF_CONDUCT.md`](#) before contributing or collaborating.
 
 ---
 
