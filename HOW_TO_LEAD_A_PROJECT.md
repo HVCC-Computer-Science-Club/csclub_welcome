@@ -22,7 +22,7 @@ You will:
 
 1. Start contributing to the project
 2. Talk to an officer or open an issue like: “I’d like to help maintain this project!”
-3. We’ll give you write access and add your name to [MAINTAINERS.md]('#')
+3. We’ll give you write access and add your name to [MAINTAINERS.md](./MAINTAINERS.md)
 4. You’re now a lead!
 
 ---
@@ -31,7 +31,7 @@ You will:
 
 - Keep issues labeled and up-to-date
 - Be responsive to questions (especially on `good first issues`)
-- Offer feedback on pull requests — even simple PRs deserve a “You can do better!”
+- Offer feedback on pull requests — even simple PRs deserve a “Nice Job”
 - Update docs when something changes
 - Ask for help — no one does this alone 💙
 
