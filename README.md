@@ -22,7 +22,7 @@ If you’re new to the club or just joining our GitHub org — start here.
 
 New to GitHub or contributing to code? No worries.
 
-Start with our [Getting Started Guide](./GETTING_STARTED.md) to:
+Start with our [Getting Started Guide](#) to:
 - Set up Git & GitHub
 - Fork and clone a repo
 - Open your first pull request (PR)
