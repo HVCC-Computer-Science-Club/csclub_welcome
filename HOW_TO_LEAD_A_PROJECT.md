@@ -31,7 +31,7 @@ You will:
 
 - Keep issues labeled and up-to-date
 - Be responsive to questions (especially on `good first issues`)
-- Offer feedback on pull requests — even simple PRs deserve a “You can do better!”
+- Offer feedback on pull requests — even simple PRs deserve a “Nice Job”
 - Update docs when something changes
 - Ask for help — no one does this alone 💙
 
