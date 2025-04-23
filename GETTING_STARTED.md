@@ -16,14 +16,14 @@ Welcome! This guide will help you get set up with GitHub and make your first con
 ## 🧰 Step 1: Set Up Git & GitHub
 
 1. **Create a GitHub account** (if you don’t have one):  
-   [Github]('#')
+   [Github](https://github.com/)
 
-2. **Install Git**:  
+3. **Install Git**:  
    - [Git for Windows](https://git-scm.com/download/win)  
    - [Git for macOS](https://git-scm.com/download/mac)  
    - [Git for Linux](https://git-scm.com/download/linux)
 
-3. **Set up Git on your computer**  
+4. **Set up Git on your computer**  
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"

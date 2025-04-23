@@ -6,7 +6,7 @@ This file tracks who has led or maintained each club project over time. It's mea
 
 ## 🌐 Club Website
 
-- **Taiwo Omoya** (@taiwowritescode) — Lead maintainer (Fall 2025 – present)
+- **Taiwo Omoya** (@debbie1505) — Lead maintainer (Fall 2025 – present)
 
 
 ```

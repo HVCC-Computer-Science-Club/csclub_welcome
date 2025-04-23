@@ -53,7 +53,7 @@ You’ll find content on:
 
 ## 📜 Code of Conduct
 
-We want this community to be welcoming and respectful. Please read our [`CODE_OF_CONDUCT.md`]() before contributing or collaborating.
+We want this community to be welcoming and respectful. Please read our [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) before contributing or collaborating.
 
 ---
 
