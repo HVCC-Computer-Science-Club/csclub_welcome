@@ -22,7 +22,7 @@ You will:
 
 1. Start contributing to the project
 2. Talk to an officer or open an issue like: “I’d like to help maintain this project!”
-3. We’ll give you write access and add your name to [MAINTAINERS.md]('/MAINTAINERS.md')
+3. We’ll give you write access and add your name to [MAINTAINERS.md](./MAINTAINERS.md)
 4. You’re now a lead!
 
 ---
