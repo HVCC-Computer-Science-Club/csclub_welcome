@@ -22,7 +22,7 @@ If you’re new to the club or just joining our GitHub org — start here.
 
 New to GitHub or contributing to code? No worries.
 
-Start with our [Getting Started Guide](#) to:
+Start with our [Getting Started Guide]() to:
 - Set up Git & GitHub
 - Fork and clone a repo
 - Open your first pull request (PR)
@@ -32,7 +32,7 @@ Start with our [Getting Started Guide](#) to:
 ## 🧩 Active Club Projects
 
 Looking for something to work on?
-Check out [`PROJECTS.md`](#) to browse active projects and find one you’re interested in.
+Check out [`PROJECTS.md`]() to browse active projects and find one you’re interested in.
 
 We’ve labeled beginner-friendly tasks with `good first issue` and `help wanted` tags.
 
@@ -40,7 +40,7 @@ We’ve labeled beginner-friendly tasks with `good first issue` and `help wanted
 
 ## 📚 Resources
 
-Want to level up your skills? Our [`RESOURCES.md`](#) file is full of curated tools and tutorials picked by club members.
+Want to level up your skills? Our [`RESOURCES.md`]() file is full of curated tools and tutorials picked by club members.
 
 You’ll find content on:
 - Git/GitHub basics
