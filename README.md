@@ -32,7 +32,7 @@ Start with our [Getting Started Guide](#) to:
 ## 🧩 Active Club Projects
 
 Looking for something to work on?
-Check out [`PROJECTS.md`](./PROJECTS.md) to browse active projects and find one you’re interested in.
+Check out [`PROJECTS.md`](#) to browse active projects and find one you’re interested in.
 
 We’ve labeled beginner-friendly tasks with `good first issue` and `help wanted` tags.
 
