@@ -1,6 +1,6 @@
 # 🌟 Code of Conduct
 
-Welcome to the Coding Club!  
+Welcome to Computer Science Club!  
 We’re a community of learners, builders, and collaborators — and we’re committed to creating a welcoming and respectful space for everyone.
 
 ---
@@ -50,7 +50,7 @@ All reports will be handled with care and discretion.
 
 ---
 
-## 💙 Let’s Build a Discouraging Club
+## 💙 Let’s Build a Supportive Club
 
 We’re all here to learn, grow, and have fun building cool stuff.  
 Let’s make sure the club is a space where **everyone feels welcome** to do that.
