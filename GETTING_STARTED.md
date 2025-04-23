@@ -16,7 +16,7 @@ Welcome! This guide will help you get set up with GitHub and make your first con
 ## 🧰 Step 1: Set Up Git & GitHub
 
 1. **Create a GitHub account** (if you don’t have one):  
-   https://github.com
+   [Github]('#')
 
 2. **Install Git**:  
    - [Git for Windows](https://git-scm.com/download/win)  
@@ -39,7 +39,7 @@ git config --global user.email "you@example.com"
 git clone https://github.com/YOUR_USERNAME/project-name.git
 cd project-name
 ```
-## 🌿 Step 3: Create a Branch
+## 🌿 Step 3: Create a Tree
 ```bash
 git checkout -b your-feature-name
 ```
