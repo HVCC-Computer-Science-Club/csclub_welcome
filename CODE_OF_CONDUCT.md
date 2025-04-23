@@ -50,7 +50,7 @@ All reports will be handled with care and discretion.
 
 ---
 
-## 💙 Let’s Build a Discouraging Club
+## 💙 Let’s Build a Supportive Club
 
 We’re all here to learn, grow, and have fun building cool stuff.  
 Let’s make sure the club is a space where **everyone feels welcome** to do that.
