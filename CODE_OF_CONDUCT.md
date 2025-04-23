@@ -9,7 +9,7 @@ We’re a community of learners, builders, and collaborators — and we’re com
 
 In the interest of fostering an open and inclusive environment, we as members, contributors, and leaders pledge to:
 
-- Be respectful and kind to others
+- Be kind and respectful to others
 - Give constructive feedback
 - Be open to different ideas and perspectives
 - Support beginners and experienced members alike
