@@ -22,7 +22,7 @@ You will:
 
 1. Start contributing to the project
 2. Talk to an officer or open an issue like: “I’d like to help maintain this project!”
-3. We’ll give you write access and add your name to `MAINTAINERS.md`
+3. We’ll give you write access and add your name to [`MAINTAINERS.md`]('#')
 4. You’re now a lead!
 
 ---
@@ -39,7 +39,7 @@ You will:
 
 ## 💬 Support from the Club
 
-- Club officers will back you up with planning, recruiting contributors, and hosting hack sessions(totally optional)
+- Club officers will back you up with planning and getting contributors
 - You can step back any time — just let us know and we’ll help transition
 - You’ll gain real leadership experience for your resume
 
