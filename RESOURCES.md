@@ -25,6 +25,14 @@ Welcome! This page contains curated resources recommended by club members to hel
 - [Python for Beginners (YouTube)](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Real Python](https://realpython.com/)
+- [Harvard's CS50 Python Course (Free)](https://cs50.harvard.edu/python/2022/weeks/0/)
+
+---
+
+## ☕️ Java
+
+- [University Of Helsinki Java Course (Free)](https://java-programming.mooc.fi/)
+- [Bro Code's 12H Java Course (Youtube)](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 
 ---
 
@@ -49,6 +57,9 @@ Welcome! This page contains curated resources recommended by club members to hel
 - [Notion Templates for Devs](https://notioneverything.com/templates/developers/)
 - [DevDocs.io](https://devdocs.io/) – All docs in one place
 - [Regex Learn](https://regexlearn.com/) – Visual regex tutorial
+- [LeetCode](https://leetcode.com/) - Thousands of coding problems to solve
+- [NeetCode](https://neetcode.io/) - Leetcode problems organized and ordered into a lists of topics
+- [SQLBolt](https://sqlbolt.com/) - For learning how to use SQL databases
 
 ---
 
